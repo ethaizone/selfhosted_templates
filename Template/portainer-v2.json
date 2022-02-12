@@ -3376,6 +3376,14 @@
 					"default": "100",
 					"label": "PGID",
 					"name": "PGID"
+				},
+				{
+					"label": "USER",
+					"name": "USER"
+				},
+				{
+					"label": "PASS",
+					"name": "PASS"
 				}
 			],
 			"image": "lscr.io/linuxserver/transmission:latest",
